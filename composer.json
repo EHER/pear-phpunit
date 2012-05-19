@@ -1,0 +1,19 @@
+{
+    "name": "eher/pear-phpunit",
+    "description": "Package of PHPUnit to install from oficial PEAR channel.",
+    "authors": [
+        {
+            "name": "Eher",
+            "email": "alexandre@eher.com.br"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear.phpunit.de"
+        }
+    ],
+    "require": {
+        "pear-phpunit/phpunit": "*"
+    }
+}
